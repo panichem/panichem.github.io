@@ -1,3 +1,0 @@
-# panichem.github.io
-
-Testing
