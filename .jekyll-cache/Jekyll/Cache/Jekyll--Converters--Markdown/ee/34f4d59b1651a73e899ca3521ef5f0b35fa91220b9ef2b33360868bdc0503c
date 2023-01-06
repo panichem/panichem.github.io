@@ -1,0 +1,239 @@
+I"j#<!-- pages/projects.md -->
+<div class="projects"><!-- Display projects without categories --><!-- Generate cards for each project -->
+  <div class="grid"><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/np1-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/np1-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/np1-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/np1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">1_project</h2> -->
+          <p class="card-text">A day's worth of data. Positions and spiking waveforms of neurons recorded in prefrontal cortex.</p>
+        </div>
+      </div>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/probe-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/probe-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/probe-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/probe.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">project 2</h2> -->
+          <p class="card-text">Sharpened neuropixel probe under the light microscope.</p>
+        </div>
+      </div>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/model-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/model-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/model-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/model.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">project 3</h2> -->
+          <p class="card-text">Model of working memory dynamics from Panichello, dePasquale, Pillow, and Buschman (2019). Color memories (traces) drift over time towards stable attractor states (converging arrows).</p>
+        </div>
+      </div>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gt-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gt-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gt-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gt.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">project 4</h2> -->
+          <p class="card-text">3D printed grid system for guide tube insertion.</p>
+        </div>
+      </div>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/graphab-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/graphab-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/graphab-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/graphab.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">project 5</h2> -->
+          <p class="card-text">Visual abstract of Panichello &amp; Buschman (2021). We found (among other things) that color memories were coded using orthogonal patterns of neural activity (glass panes) which allows individual memories to be read out without interference (spotlight projections).</p>
+        </div>
+      </div>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/donut-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/donut-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/donut-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/donut.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">project 5</h2> -->
+          <p class="card-text">Lighthearted preparation for making the visual abstract in blender (thanks @blenderGuru).</p>
+        </div>
+      </div>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/grid-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/grid-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/grid-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/grid.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">project 7</h2> -->
+          <p class="card-text">Hand-built tungsten electrode array, allowing recording from up to 80 sites within a 2 cm diameter area.</p>
+        </div>
+      </div>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/trident-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/trident-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/trident-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/trident.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">project 8</h2> -->
+          <p class="card-text">My first electrode array. 3 tungsten electrodes glued together, sheathed in polyamide tubing for sturdiness.</p>
+        </div>
+      </div>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/pu-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/pu-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/pu-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/pu.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+  	  <!-- <h2 class="card-title text-lowercase">project 9</h2> -->
+          <p class="card-text">Blair Arch, PU interview weekend, 2012.</p>
+        </div>
+      </div>
+</div>
+
+  </div></div>
+:ET

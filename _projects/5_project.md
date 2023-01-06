@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 5
-description: An 'abstract abstract' of Panichello & Buschman (2021). We found (among other things) that color memories were coded using orthogonal patterns of neural activity (glass panes) which allows individual memories to be read out without interference (spotlight projections).  
+description: Visual abstract of Panichello & Buschman (2021). We found (among other things) that color memories were coded using orthogonal patterns of neural activity (glass panes) which allows individual memories to be read out without interference (spotlight projections).  
 img: assets/img/graphab.jpg
 redirect: https://unsplash.com
 importance: 5
