@@ -1,0 +1,21 @@
+I"¬<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/np1-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/np1-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/np1-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/np1.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="np1" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+:ET

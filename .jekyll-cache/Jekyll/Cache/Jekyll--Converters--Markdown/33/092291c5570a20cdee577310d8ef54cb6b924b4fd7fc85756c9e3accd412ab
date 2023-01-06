@@ -1,0 +1,204 @@
+I"ù<!-- _pages/publications.md -->
+<div class="publications">
+  <!-- <h2 class="year">2021</h2> -->
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+
+        <!-- Entry bib key -->
+        <div id="panichello2021shared" class="col-sm-10">
+        
+          <!-- Title -->
+          <div class="title">Shared mechanisms underlie the control of working memory and attention</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Matthew F Panichello,&nbsp;and&nbsp;Timothy J Buschman</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Nature, </em>2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://www.nature.com/articles/s41586-021-03390-w" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/2021nature.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+</li>
+<li><!-- _layouts/bib.html -->
+
+        <!-- Entry bib key -->
+        <div id="panichello2021behavioral" class="col-sm-10">
+        
+          <!-- Title -->
+          <div class="title">Behavioral and neural fusion of expectation with sensation</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Matthew F Panichello,&nbsp;and&nbsp;Nicholas B Turk-Browne</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Cognitive Neuroscience, </em>2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://direct.mit.edu/jocn/article/33/5/814/97375/Behavioral-and-Neural-Fusion-of-Expectation-with" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/2021jocn.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+</li></ol>
+
+  <!-- <h2 class="year">2020</h2> -->
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+
+        <!-- Entry bib key -->
+        <div id="yu2020delay" class="col-sm-10">
+        
+          <!-- Title -->
+          <div class="title">Delay-period activity in frontal, parietal, and occipital cortex tracks noise and biases in visual working memory</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Qing Yu,&nbsp;Matthew F Panichello,&nbsp;Ying Cai,&nbsp;Bradley R Postle,&nbsp;and&nbsp;Timothy J Buschman</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>PLoS Biology, </em>2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000854" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/2020plosbio.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+</li>
+<li><!-- _layouts/bib.html -->
+
+        <!-- Entry bib key -->
+        <div id="panichello2020cognitive" class="col-sm-10">
+        
+          <!-- Title -->
+          <div class="title">Cognitive transforms in perception and memory</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Matthew F Panichello</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>PhD Thesis, </em>2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://www.proquest.com/docview/2457516016?pq-origsite=gscholar&amp;fromopenview=true" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/2020thesis.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+</li></ol>
+
+  <!-- <h2 class="year">2019</h2> -->
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+
+        <!-- Entry bib key -->
+        <div id="panichello2019error" class="col-sm-10">
+        
+          <!-- Title -->
+          <div class="title">Error-correcting dynamics in visual working memory</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Matthew F Panichello,&nbsp;Brian DePasquale,&nbsp;Jonathan W Pillow,&nbsp;and&nbsp;Timothy J Buschman</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Nature Communications, </em>2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://www.nature.com/articles/s41467-019-11298-3" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/2019natcomm.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+</li></ol>
+
+  <!-- <h2 class="year">2017</h2> -->
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+
+        <!-- Entry bib key -->
+        <div id="panichello2017internal" class="col-sm-10">
+        
+          <!-- Title -->
+          <div class="title">Internal valence modulates the speed of object recognition</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Matthew F Panichello,&nbsp;Kestutis Kveraga,&nbsp;Maximilien Chaumon,&nbsp;Moshe Bar,&nbsp;and&nbsp;Lisa Feldman Barrett</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Scientific Reports, </em>2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://www.nature.com/articles/s41598-017-00385-4" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/2017scirep.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+</li></ol>
+
+  <!-- <h2 class="year">2013</h2> -->
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+
+        <!-- Entry bib key -->
+        <div id="panichello2013predictive" class="col-sm-10">
+        
+          <!-- Title -->
+          <div class="title">Predictive feedback and conscious visual experience</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Matthew F Panichello,&nbsp;Olivia S Cheung,&nbsp;and&nbsp;Moshe Bar</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Frontiers in Psychology, </em>2013
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00620/full" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/2013.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+</li></ol>
+
+
+</div>
+:ET
