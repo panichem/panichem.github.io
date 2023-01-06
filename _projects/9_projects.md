@@ -2,7 +2,7 @@
 layout: page
 title: project 9
 description: Blair Arch, PU interview weekend, 2012. 
-img: assets/img/pu.JPG
+img: assets/img/pu.jpg
 redirect: https://unsplash.com
 importance: 9
 category: work

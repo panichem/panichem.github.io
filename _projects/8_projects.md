@@ -2,7 +2,7 @@
 layout: page
 title: project 8
 description: My first electrode array. 3 tungsten electrodes glued together, sheathed in polyamide tubing for sturdiness.
-img: assets/img/trident.JPG
+img: assets/img/trident.jpg
 redirect: https://unsplash.com
 importance: 8
 category: work

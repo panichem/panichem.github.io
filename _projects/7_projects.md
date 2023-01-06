@@ -2,7 +2,7 @@
 layout: page
 title: project 7
 description: Hand-built tungsten electrode array, allowing recording from up to 80 sites within a 2 cm diameter area.
-img: assets/img/grid.JPG
+img: assets/img/grid.jpg
 redirect: https://unsplash.com
 importance: 7
 category: work
